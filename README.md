@@ -30,7 +30,7 @@ I have a keen interest in developing **web** and **mobile applications**, and I 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalboussikarim&langs_count=7&theme=dark&icon_color=9ea5ff&hide_border=false&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages used by Karim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalboussikarim&langs_count=6&theme=dark&icon_color=9ea5ff&hide_border=false&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages used by Karim" />
 </p>
 
 ## Contact me :
